@@ -1,0 +1,4 @@
+<form role="search" method="get" action="<?php echo esc_url(home_url('/')); ?>" style="display:flex;gap:8px;">
+    <input type="search" name="s" placeholder="Borsa, rehber, terim ara..." value="<?php echo get_search_query(); ?>" style="flex:1;padding:12px 16px;border-radius:10px;border:1px solid rgba(255,69,0,0.15);background:#12121a;color:#e0e0e0;font-family:Inter,sans-serif;font-size:0.95rem;">
+    <button type="submit" style="background:linear-gradient(135deg,#ff4500,#ff6b35);color:#fff;border:none;padding:12px 20px;border-radius:10px;cursor:pointer;font-weight:700;">&#x1F50D;</button>
+</form>
