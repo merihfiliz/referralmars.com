@@ -1,14 +1,17 @@
 /*
 Theme Name: ReferralMars
 Theme URI: https://referralmars.com
-Author: ReferralMars
-Author URI: https://referralmars.com
-Description: Kripto borsalarinin referans/bonus kodlarini paylasan profesyonel WordPress temasi.
-Version: 1.0
+Author: Merih Filiz
+Author URI: https://x.com/v_referrals
+Description: Kripto borsalarının referral kodlarını ve bonuslarını paylaşan modern dark WordPress teması.
+Version: 1.0.1
+Requires at least: 6.0
+Tested up to: 6.4
+Requires PHP: 8.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: referralmars
-Tags: crypto, referral, dark, modern, responsive
+Tags: blog, crypto, referral, dark-mode, custom-menu, custom-logo, editor-style, featured-images, threaded-comments
 */
 
 @import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700;800&display=swap");
